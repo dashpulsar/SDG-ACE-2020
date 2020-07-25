@@ -1,0 +1,703 @@
+keyword,spaces,include?
+access,0,No
+adopt,0,No
+affordab,0,No
+affordable,0,No
+agrivoltaic,0,Yes
+alternative,0,No
+area,0,No
+areas,0,No
+availab,0,No
+barrier,0,No
+barriers,0,No
+batteries,0,No
+battery,0,No
+better,0,No
+bioconversion,0,Yes
+biodiesel,0,Yes
+bioenergy,0,Yes
+biofuel,0,Yes
+biofuels,0,Yes
+biogas,0,Yes
+biogasoline,0,Yes
+biomass,0,Yes
+building,0,No
+buildings,0,No
+carbon,0,No
+cardiovascular,0,No
+carpool,0,Yes
+carsharing,0,Yes
+certificat,0,No
+charcoal,0,No
+cities,0,No
+clean,0,No
+cleaner,0,No
+co2,0,No
+co2balance,0,No
+coal,0,Yes
+commerciali?ation,0,No
+communities,0,No
+community,0,No
+congo,0,No
+conversion,0,No
+cooking,0,No
+countr,0,No
+decarbonise,0,Yes
+decarbonize,0,Yes
+develop,0,No
+double,0,No
+ecohouse,0,Yes
+economic,0,No
+economies,0,No
+economy,0,No
+electric,0,No
+electrical,0,No
+electricity,0,No
+electrification,0,Yes
+electrofuel,0,Yes
+emission,0,Yes
+emissions,0,Yes
+energy,0,No
+enhanc,0,No
+equitab,0,No
+footprint,0,No
+footprints,0,No
+fuel,0,No
+fuels,0,No
+gdp,0,No
+generat,0,No
+geothermal,0,Yes
+green,0,No
+grid,0,No
+grids,0,No
+higher,0,No
+houses,0,No
+housing,0,No
+hybrid,0,No
+hydroelectric,0,Yes
+hydrogen,0,No
+hydrokinetic,0,Yes
+hydropower,0,Yes
+hydrothermal,0,Yes
+implement,0,No
+improv,0,No
+incentive,0,No
+incentives,0,No
+increas,0,No
+industrial,0,No
+industry,0,No
+infrastructure,0,No
+initiative,0,No
+initiatives,0,No
+invest,0,No
+investing,0,No
+investment,0,No
+investments,0,No
+legislation,0,No
+manufacturing,0,No
+market,0,No
+markets,0,No
+metabolic,0,No
+metabolism,0,No
+microbiofuel,0,Yes
+microgrid,0,Yes
+microgrids,0,Yes
+mitochondria,0,No
+modern,0,No
+moderni,0,No
+muscle,0,No
+muscles,0,No
+myanmar,0,No
+nation,0,No
+nations,0,No
+obstacle,0,No
+obstacles,0,No
+percentage,0,No
+percentages,0,No
+photobioreactor,0,Yes
+photochemistry,0,Yes
+photovoltaic,0,Yes
+policies,0,No
+policy,0,No
+power,0,No
+powered,0,No
+produc,0,No
+production,0,No
+promot,0,No
+proportion,0,No
+proportions,0,No
+region,0,No
+regions,0,No
+reliab,0,No
+reliable,0,No
+relian,0,No
+remote,0,No
+renewable,0,No
+renewables,0,No
+research,0,No
+residential,0,No
+resilien,0,No
+rural,0,No
+bi fuel vehicle,3,Yes
+air source heat pumps,4,Yes
+bio gas,4,Yes
+cap and dividend,4,Yes
+co2 emission,4,Yes
+low carbon,4,Yes
+low carbon communities,4,Yes
+low carbon economy,4,Yes
+low carbon power generation,4,Yes
+low carbon society,4,Yes
+low carbon technologies,4,Yes
+low-carbon,4,Yes
+off grid solution,4,Yes
+off grid solutions,4,Yes
+2000 watt society,5,Yes
+blue carbon,5,Yes
+coal consumption,5,Yes
+cost advantage,5,Yes
+cost advantages,5,Yes
+cost effectiveness,5,Yes
+cost-advantage,5,Yes
+cost-advantages,5,Yes
+cost-effectiveness,5,Yes
+feed conversion,5,Yes
+feed in tariff,5,Yes
+feed in tariffs,5,Yes
+fuel cell,5,Yes
+fuel cells,5,Yes
+fuel consumption,5,Yes
+fuel efficiency,5,Yes
+fuel poverty,5,Yes
+fuel povertyenergiewende,5,Yes
+fuel switching,5,Yes
+goal 7,5,Yes
+grid management,5,Yes
+grid stability,5,Yes
+heat network,5,Yes
+heat pump,5,Yes
+less energy,5,Yes
+life cycle assessment,5,Yes
+life cycle assessments,5,Yes
+meat tax,5,Yes
+more efficient,5,Yes
+algae bioreactor,6,Yes
+algae fuel,6,Yes
+build capacity,6,Yes
+clean cooking fuel,6,Yes
+clean electricity generation,6,Yes
+clean energy,6,Yes
+clean energy development,6,Yes
+clean energy infrastructure,6,Yes
+clean energy investment,6,Yes
+clean energy policies,6,Yes
+clean energy production,6,Yes
+clean energy projects,6,Yes
+clean energy research,6,Yes
+clean energy technologies,6,Yes
+clean energy technology,6,Yes
+clean fuel,6,Yes
+clean fuel technology,6,Yes
+clean fuels,6,Yes
+clean technologies,6,Yes
+clean technology,6,Yes
+green bonds,6,Yes
+green economy,6,Yes
+green electricity,6,Yes
+green energy,6,Yes
+green growth,6,Yes
+green growth policies,6,Yes
+green infrastructure,6,Yes
+green infrastructure investment,6,Yes
+green infrastructure projects,6,Yes
+green innovation,6,Yes
+green power,6,Yes
+green technologies,6,Yes
+human energetics,6,Yes
+kyoto protocol,6,Yes
+least developed,6,Yes
+least developed countries,6,Yes
+micro grid,6,Yes
+micro grids,6,Yes
+micro-grid,6,Yes
+micro-grids,6,Yes
+ocean energy,6,Yes
+phase out of fossil fuel vehicles,6,Yes
+power consumption,6,Yes
+power demand,6,Yes
+power generation,6,Yes
+power plants,6,Yes
+power supply,6,Yes
+power system,6,Yes
+power systems,6,Yes
+power utilities,6,Yes
+rural electrification,6,Yes
+small island developing states,6,Yes
+smart buildings,6,Yes
+smart grid,6,Yes
+smart grids,6,Yes
+smart meter,6,Yes
+smart meters,6,Yes
+smart micro grid,6,Yes
+smart micro grids,6,Yes
+smart micro-grid,6,Yes
+smart micro-grids,6,Yes
+smart microgrid,6,Yes
+smart microgrids,6,Yes
+solar air conditioning,6,Yes
+solar air heat,6,Yes
+solar air heating system,6,Yes
+solar air heating systems,6,Yes
+solar array,6,Yes
+solar box cooker,6,Yes
+solar box cookers,6,Yes
+solar bus,6,Yes
+solar car,6,Yes
+solar cell,6,Yes
+solar cells,6,Yes
+solar charger,6,Yes
+solar cooker,6,Yes
+solar cookers,6,Yes
+solar district cooling,6,Yes
+solar district heating,6,Yes
+solar energy,6,Yes
+solar energy collector,6,Yes
+solar energy collectors,6,Yes
+solar panel,6,Yes
+solar panels,6,Yes
+solar photovoltaic,6,Yes
+solar photovoltaics,6,Yes
+solar power,6,Yes
+solar power plants,6,Yes
+solar powered refrigerator,6,Yes
+solar pv,6,Yes
+solar roadway,6,Yes
+solar space heating system,6,Yes
+solar space heating systems,6,Yes
+solar thermal,6,Yes
+solar thermal collector,6,Yes
+solar thermal collectors,6,Yes
+solar thermal energy,6,Yes
+solar thermal power,6,Yes
+solar thermal systems,6,Yes
+solar thermal technolog,6,Yes
+solar updraft tower,6,Yes
+solar vehicle,6,Yes
+solar water heating,6,Yes
+solar-cell,6,Yes
+solar-cells,6,Yes
+solar-panel,6,Yes
+solar-panels,6,Yes
+solid biomass,6,Yes
+solid fuels,6,Yes
+access to energy,7,Yes
+animal energetics,7,Yes
+animal waste,7,Yes
+bottle recycling,7,Yes
+carbon based fuel,7,Yes
+carbon capture and utilisation,7,Yes
+carbon dioxide removal,7,Yes
+carbon dioxide scrubber,7,Yes
+carbon emission,7,Yes
+carbon farming,7,Yes
+carbon footprint,7,Yes
+carbon intensity,7,Yes
+carbon metabolism,7,Yes
+carbon neutral,7,Yes
+carbon neutral fuel,7,Yes
+carbon offset,7,Yes
+carbon pollution reduction scheme,7,Yes
+carbon sequestration,7,Yes
+carbon tax,7,Yes
+carbon-neutral,7,Yes
+common external power supply,7,Yes
+crisis communication,7,Yes
+double glazing,7,Yes
+energy access,7,Yes
+energy audit,7,Yes
+energy conservation,7,Yes
+energy consum,7,Yes
+energy consumption,7,Yes
+energy conversion efficiency,7,Yes
+energy cost,7,Yes
+energy crop,7,Yes
+energy crops,7,Yes
+energy data,7,Yes
+energy demand,7,Yes
+energy democracy,7,Yes
+energy development,7,Yes
+energy efficien,7,Yes
+energy efficiency,7,Yes
+energy efficiency investments,7,Yes
+energy efficiency measures,7,Yes
+energy efficiency policies,7,Yes
+energy efficiency programmes,7,Yes
+energy efficiency projects,7,Yes
+energy equity,7,Yes
+energy governance,7,Yes
+energy harvesting,7,Yes
+energy infrastructure,7,Yes
+energy infrastructure projects,7,Yes
+energy insecurity,7,Yes
+energy intensity,7,Yes
+energy investment,7,Yes
+energy justice,7,Yes
+energy ladder,7,Yes
+energy management,7,Yes
+energy management systems,7,Yes
+energy mix,7,Yes
+energy options,7,Yes
+energy performance,7,Yes
+energy performance standard,7,Yes
+energy performance standards,7,Yes
+energy planning,7,Yes
+energy policy,7,Yes
+energy policyrenewable,7,Yes
+energy poverty,7,Yes
+energy prices,7,Yes
+energy production,7,Yes
+energy productivity,7,Yes
+energy research,7,Yes
+energy resources management,7,Yes
+energy saving,7,Yes
+energy sector,7,Yes
+energy sector reform,7,Yes
+energy sector transformation,7,Yes
+energy security,7,Yes
+energy service,7,Yes
+energy service companies,7,Yes
+energy services,7,Yes
+energy storage,7,Yes
+energy strateg,7,Yes
+energy suppliers,7,Yes
+energy supply,7,Yes
+energy sustainability,7,Yes
+energy system,7,Yes
+energy systems,7,Yes
+energy technologies,7,Yes
+energy technology,7,Yes
+energy transition,7,Yes
+energy transitions,7,Yes
+energy usage,7,Yes
+energy use,7,Yes
+energy uses,7,Yes
+energy vulnerability,7,Yes
+formic acid fuel cell,7,Yes
+fossil fuel,7,Yes
+fossil fuel phase out,7,Yes
+fossil fuel phase-out,7,Yes
+fossil fuel subsidies,7,Yes
+fossil fuel subsidy reform,7,Yes
+fossil fuel use,7,Yes
+fossil fuels,7,Yes
+fossil-fuel,7,Yes
+fusion power,7,Yes
+german climate action plan 2050,7,Yes
+global electricity,7,Yes
+global energy,7,Yes
+global energy demand,7,Yes
+global energy mix,7,Yes
+global energy system,7,Yes
+ground heat exchanger,7,Yes
+hybrid power,7,Yes
+hybrid renewable energy system,7,Yes
+hybrid renewable energy systems,7,Yes
+liquid nitrogen engine,7,Yes
+modern electricity,7,Yes
+modern energy,7,Yes
+modern energy services,7,Yes
+modern fuels,7,Yes
+pellet fuel,7,Yes
+pellet stove,7,Yes
+public schemes for energy efficient refurbishment,7,Yes
+reduce fossil fuel consumption,7,Yes
+saline aquifers,7,Yes
+social metabolism,7,Yes
+alcohol fuel,8,Yes
+bi-fuel vehicle,8,Yes
+biomass briquettes,8,Yes
+biomass fuels,8,Yes
+caloric restriction,8,Yes
+calorie restriction,8,Yes
+chicago climate action plan,8,Yes
+chinese national carbon trading scheme,8,Yes
+cleaner fossil fuel,8,Yes
+cleaner fossil fuel technology,8,Yes
+cleaner fuels,8,Yes
+cleaner production,8,Yes
+climate capitalism,8,Yes
+climate change,8,Yes
+climate goal,8,Yes
+coalbed methane,8,Yes
+current turbine,8,Yes
+current turbines,8,Yes
+develop  commercially,8,Yes
+feed-in tariff,8,Yes
+feed-in tariffs,8,Yes
+foreign aid,8,Yes
+foreign development aid,8,Yes
+foreign direct investment,8,Yes
+improve energy efficiency,8,Yes
+lithium economy,8,Yes
+lithium ion batteries,8,Yes
+lithium ion battery,8,Yes
+natural gas,8,Yes
+natural gas storage,8,Yes
+nuclear energy,8,Yes
+nuclear power,8,Yes
+nuclear power plants,8,Yes
+nuclear safety and security,8,Yes
+nuclear science,8,Yes
+onshore wind,8,Yes
+osmotic power,8,Yes
+pathway to,8,Yes
+plastic recycling,8,Yes
+primary energy,8,Yes
+primary energy demand,8,Yes
+primary energy sources,8,Yes
+primary energy supply,8,Yes
+primary source,8,Yes
+primary sources,8,Yes
+primary usage,8,Yes
+primary use,8,Yes
+promote energy efficiency investments,8,Yes
+seaweed fuel,8,Yes
+airborne wind turbine,9,Yes
+alkaline anion exchange membrane fuel cell,9,Yes
+alkaline fuel cell,9,Yes
+biobased economy,9,Yes
+building insulation,9,Yes
+building performance,9,Yes
+capacity building,9,Yes
+capacity development,9,Yes
+charging station,9,Yes
+combined gas and steam,9,Yes
+combined nuclear and steam propulsion,9,Yes
+combined steam and gas,9,Yes
+district heat,9,Yes
+district heating,9,Yes
+domestic energy consumption,9,Yes
+economic feasibility,9,Yes
+economic growth,9,Yes
+economic metabolism,9,Yes
+electric energy,9,Yes
+electric motor,9,Yes
+electric power,9,Yes
+electric power distribution,9,Yes
+hydrogen fuel,9,Yes
+hydrogen production,9,Yes
+hydrogen station,9,Yes
+hydrogen technologies,9,Yes
+hydrogen vehicle,9,Yes
+improved energy effi ciency,9,Yes
+increase energy security,9,Yes
+national energy transition,9,Yes
+national energy transitions,9,Yes
+official development aid,9,Yes
+official development assistance,9,Yes
+offshore wind,9,Yes
+offshore wind farms,9,Yes
+offshore wind turbines,9,Yes
+reliable electricity,9,Yes
+reliable energy,9,Yes
+removing fossil fuel subsidies,9,Yes
+resource flexibility,9,Yes
+reversed electrodialysis,9,Yes
+societal metabolism,9,Yes
+aluminium recycling,10,Yes
+appliance recycling,10,Yes
+emergency response,10,Yes
+emissions trading,10,Yes
+increased energy effi ciency,10,Yes
+increased resource efficiency,10,Yes
+liquefied natural gas,10,Yes
+magnesium battery,10,Yes
+metabolic syndrome,10,Yes
+phase-out of fossil fuel vehicles,10,Yes
+renewable electricity,10,Yes
+renewable electricity generation,10,Yes
+renewable energy,10,Yes
+renewable energy deployment,10,Yes
+renewable energy development,10,Yes
+renewable energy policy,10,Yes
+renewable energy power generation,10,Yes
+renewable energy producers,10,Yes
+renewable energy production,10,Yes
+renewable energy programmes,10,Yes
+renewable energy projects,10,Yes
+renewable energy resources,10,Yes
+renewable energy sector,10,Yes
+renewable energy share,10,Yes
+renewable energy sources,10,Yes
+renewable energy technologies,10,Yes
+renewable energy transition,10,Yes
+renewable energy transitions,10,Yes
+renewable energy use,10,Yes
+renewable energyphotovoltaic,10,Yes
+renewable fuels,10,Yes
+renewable generation,10,Yes
+renewable natural gas,10,Yes
+renewable power,10,Yes
+renewable resources,10,Yes
+renewable source,10,Yes
+renewable sources,10,Yes
+renewable substitute,10,Yes
+renewable substitutes,10,Yes
+renewable technologies,10,Yes
+renewable transition,10,Yes
+renewable transitions,10,Yes
+absorption heat pump,11,Yes
+affordable electricity,11,Yes
+affordable energy,11,Yes
+autonomous building,11,Yes
+biological hydrogen production (algae),11,Yes
+carbonzero programme,11,Yes
+commercial development,11,Yes
+compressed air car,11,Yes
+compressed air vehicle,11,Yes
+developing countries,11,Yes
+electrical energy,11,Yes
+electrical grid,11,Yes
+electrical infrastucture,11,Yes
+electrical power,11,Yes
+electrical supply,11,Yes
+geothermal desalination,11,Yes
+geothermal energy,11,Yes
+geothermal heat pump,11,Yes
+geothermal heating,11,Yes
+geothermal power,11,Yes
+greenhouse debt,11,Yes
+greenhouse gas,11,Yes
+greenhouse gas emissions,11,Yes
+greenhouse gases,11,Yes
+hydropower plants,11,Yes
+industrial energy efficiency,11,Yes
+industrial metabolism,11,Yes
+industrial process heat,11,Yes
+landlocked developing countries,11,Yes
+life-cycle assessment,11,Yes
+life-cycle assessments,11,Yes
+low-carbon economy,11,Yes
+low-carbon society,11,Yes
+alternative energy,12,Yes
+alternative energy sources,12,Yes
+alternative fuel,12,Yes
+alternative fuels,12,Yes
+electricity access,12,Yes
+electricity consumption,12,Yes
+electricity cost,12,Yes
+electricity generation,12,Yes
+electricity generation mix,12,Yes
+electricity infrastructure,12,Yes
+electricity market,12,Yes
+electricity prices,12,Yes
+electricity sector,12,Yes
+electricity tariffs,12,Yes
+fluorescent lamp recycling,12,Yes
+lithium-ion batteries,12,Yes
+lithium-ion battery,12,Yes
+metal–air electrochemical cell,12,Yes
+residential energy consumption,12,Yes
+alternatives to car use,13,Yes
+carbon-based fuel,13,Yes
+concentrated solar power,13,Yes
+conventional energy,13,Yes
+photovoltaic power station,13,Yes
+photovoltaic system,13,Yes
+photovoltaic systems,13,Yes
+biodegradable electronics,14,Yes
+certification for sustainable transportation,14,Yes
+environmental technologies,14,Yes
+institutional investors,14,Yes
+international collaboration,14,Yes
+international cooperation,14,Yes
+lithium–air battery,14,Yes
+socioeconomic metabolism,14,Yes
+solar-powered refrigerator,14,Yes
+carbon-neutral fuel,15,Yes
+compressed-air vehicle,15,Yes
+infrastructure upgrade,15,Yes
+photocatalytic water splitting,15,Yes
+aluminium–air battery,16,Yes
+,,
+,,
+,,
+,,
+,,
+strategic crisis management,,
+stream turbine,,
+stream turbines,,
+supply,,
+supply stability,,
+sustainab,,
+sustainable,,
+sustainable aviation fuel,,
+sustainable development,,
+sustainable development goal,,
+sustainable development goal 7,,
+sustainable development goals,,
+sustainable development goals 7,,
+sustainable electronic,,
+sustainable energy,,
+sustainable energy development,,
+sustainable energy infrastructure,,
+sustainable energy projects,,
+sustainable energy services,,
+sustainable energy supply,,
+sustainable energy system,,
+sustainable energy technologies,,
+sustainable power,,
+sustainable transport,,
+synthetic fuel,,
+technical knowledge transfer,,
+technolog,,
+technology,,
+technology transfer,,
+technology transfers,,
+technology upgrade,,
+thermal energy,,
+thermal energy storage,,
+thermoelectric generator,,
+thermophotonics,,
+thermophotovoltaic,,
+tidal energy,,
+tidal power,,
+tidal stream generator,,
+tidal turbine,,
+tidal turbines,,
+tide mill,,
+universal electrification,,
+universal energy access,,
+upgrad,,
+upscale,,
+urban energy,,
+urban metabolism,,
+variable renewable energy,,
+vehicle to grid,,
+vehicle-to-grid,,
+vehicles,,
+waste heat recovery unit,,
+water heat recycling,,
+water heating,,
+water splitting,,
+wave,,
+wave energy,,
+wave power,,
+wind,,
+wind energy,,
+wind farm,,
+wind farms,,
+wind generation,,
+wind plants,,
+wind power,,
+wind power generation,,
+wind power plants,,
+wind resource,,
+wind turbine,,
+wind turbines,,
+windbelt,,
+windpump,,
+wireless sensor network,,
+wireless sensor networks,,
+wood,,
+wood energy,,
