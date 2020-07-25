@@ -767,7 +767,7 @@ show(p)
 
     BokehDeprecationWarning: 'legend' keyword is deprecated, use explicit 'legend_label', 'legend_field', or 'legend_group' keywords instead
     
-
+![png](output_200_0.png)
 
 
 
