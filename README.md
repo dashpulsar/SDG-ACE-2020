@@ -52,8 +52,6 @@ We use Scrapy got some data from the SDG databases.
 These data are labeled. We can use them for supervised learning. But this is not only our only method, we also think about directly using the provided data for unsupervised learning. Details will be introduced in "methods".
 
 ## 3. Methods  
-We mainly used two different methods.   
-<br>
 #### Supervised learning  
 One is to use the labeled data of the extended data set for supervised learning.
 We tried  KNeighborsClassifier and SVD techniques.For details, please click: [Here (Supervised learning)](#jump1)
