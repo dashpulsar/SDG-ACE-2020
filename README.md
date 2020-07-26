@@ -57,7 +57,7 @@ We mainly used two different methods.
 #### Supervised learning  
 One is to use the labeled data of the extended data set for supervised learning.
 We tried NaiveBayesclassifer, Kmeanclassifer and SVD techniques, and finally decided to use the SVD technique of classification training.
-For details, please click: [Here ()](#span-idjump131-span)
+For details, please click: [Here ()](#jump1)
 
 
 #### Unsupervised learning
