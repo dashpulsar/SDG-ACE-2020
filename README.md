@@ -219,12 +219,41 @@ PS: The words found in each step must have appeared in the document;
 
 #### 3.2.3 Consolidation
 Consolidation refers to filtering out some non-obvious words in the category thesaurus found in the enrichment step, and leaving high-quality words. The filtering standard is judged by the following formula:
-![png](graph/formula1.png)
+
+![png](graph/formula1.png)  
+
 TF(w,c) is the frequency of word w in category c, the right side of the numerator is the average frequency of word w in all categories, and the denominator represents the variance of word w in the category other than c. When FAC(w,c) is lower than a certain threshold, the word w is deleted from the category.
 
 
 #### 3.2.4 similarity
 The last step is to calculate the cosine similarity between document d and category l. In vectorization, the LSA method is used to perform singular value decomposition using word-document and word-label matrices to generate their respective latent semantic spaces. Then use the respective generated vectors for cosine similarity calculation
 
+## Result
+Detils file [Here](https://github.com/BlinkingStalker/SDG-ACE-2020/blob/master/result/classification_result.csv) 
+```
+    1. No Poverty                                  5786
+    2. Zero Hunger                                39498
+    3. Good Health & Well-being                  329667
+    4. Quality Education                          50082
+    5. Gender Equality                            40262
+    6. Clean Water & Sanitation                   73872
+    7. Affordable & Clean Energy                 133752
+    8. Decent Work & Economic Growth              10252
+    9. Industry, Innovation & Infrastructure      53986
+    10.  Reduced Inequalities                     21647
+    11.  Sustainable Cities & Communities         22691
+    12.  Responsible Consumption & Production    243214
+    13.  Climate Action                           64979
+    14.  Life Below Water                         26343
+    15.  Life on Land                             60986
+    16.  Peace, Justice & Strong Institutions     22356
+```
+
+![png](graph/output_200_0.png)  
+
 ## Reference
+
+Haj-Yahia, Z., Sieg, A. and Deleris, L. A. (2019) ‘Towards Unsupervised Text Classification Leveraging Experts and Word Embeddings’, in Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. ACL 2019, Florence, Italy: Association for Computational Linguistics, pp. 371–379. doi: 10.18653/v1/P19-1036.
+
+LaFleur, M. (2019) ‘Art Is Long, Life Is Short: An SDG Classification System for DESA Publications’, SSRN Electronic Journal. doi: 10.2139/ssrn.3400135.
 
