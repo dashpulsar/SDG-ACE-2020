@@ -49,25 +49,34 @@ Columns:
 
 ### Extended Resources  
 We use Scrapy got some data from the SDG databases.
-This data are labeled. We can use them for supervised learning. But this is not only our only method, we also think about directly using the provided data for unsupervised learning. Details will be introduced in "methods".
+These data are labeled. We can use them for supervised learning. But this is not only our only method, we also think about directly using the provided data for unsupervised learning. Details will be introduced in "methods".
 
 ## 3. Methods  
 We mainly used two different methods.   
 <br>
 #### Supervised learning  
 One is to use the labeled data of the extended data set for supervised learning.
-We tried NaiveBayesclassifer, Kmeanclassifer and SVD techniques, and finally decided to use the SVD technique of classification training.
-For details, please click: [Here ()](#jump1)
+We tried  KNeighborsClassifier and SVD techniques.For details, please click: [Here (Supervised learning)](#jump1)
 
 
 #### Unsupervised learning
 Other one is use expert knowledge and word embedding for unsupervised text classification.This method is inspired by an ACL 2019 paper, [《Towards Unsupervised Text Classification Leveraging Experts and Word Embeddings》](https://www.aclweb.org/anthology/P19-1036/)
+For details, please click: [Here (Unsupervised learning)](#jump2)
+
+### <span id="jump1">3.1 Supervised learning</span>
+
+#### 3.1.1 Preprocess
+After testing, we found that in the data of 2018_WoS.csv, there are a lot of defective data. Among them, there are a total of 1,630,350 pieces of data, and 34,492 pieces of data lack abstract.
+Therefore, we are faced with two choices, one is to divide the data into two data sets for separate classification, and the other is to fill in the default values. According to [LaFleur, M. (2019)](https://www.un.org/development/desa/publications/working-paper/wp159)
+research, we decided to use the article title as an alternative to the default value. 
+And we counted the number of journals, there are 12,912 journals in total.The number is too large and will seriously affect the classification accuracy. So we give up categorizing articles by journal name.  
+
+#### 3.1.2 Data cleaning
 
 
-### <span id="jump1">3.1 </span>
-
-#
+### <span id="jump2">3.2 Unsupervised learning</span>
 
 
 
-1630350
+## Reference
+
