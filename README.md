@@ -229,7 +229,7 @@ TF(w,c) is the frequency of word w in category c, the right side of the numerato
 The last step is to calculate the cosine similarity between document d and category l. In vectorization, the LSA method is used to perform singular value decomposition using word-document and word-label matrices to generate their respective latent semantic spaces. Then use the respective generated vectors for cosine similarity calculation
 
 ## Result
-Detils file [Here](https://github.com/BlinkingStalker/SDG-ACE-2020/blob/master/result/classification_result.csv) 
+Detiled result [Here](https://github.com/BlinkingStalker/SDG-ACE-2020/blob/master/result/classification_result.csv) 
 ```
     1. No Poverty                                  5786
     2. Zero Hunger                                39498
