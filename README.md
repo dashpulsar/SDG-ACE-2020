@@ -24,7 +24,9 @@ Life Below Water
 Life On Land
 Peace, Justice, and Strong Institutions
 Partnerships for the Goals
+
 The goals are broad based and interdependent. The 17 sustainable development goals each has a list of targets which are measured with indicators. In an effort to make the SDGs successful, data on the 17 goals has been made available in an easily-understood form.[6] A variety of tools exist to track and visualize progress towards the goals.
+
 #
 #
 
