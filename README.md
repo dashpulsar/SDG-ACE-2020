@@ -65,14 +65,36 @@ For details, please click: [Here (Unsupervised learning)](#jump2)
 
 ### <span id="jump1">3.1 Supervised learning</span>
 
-#### 3.1.1 Preprocess
+#### 3.1.1 Test data Preprocessing
 After testing, we found that in the data of 2018_WoS.csv, there are a lot of defective data. Among them, there are a total of 1,630,350 pieces of data, and 34,492 pieces of data lack abstract.
 Therefore, we are faced with two choices, one is to divide the data into two data sets for separate classification, and the other is to fill in the default values. According to [LaFleur, M. (2019)](https://www.un.org/development/desa/publications/working-paper/wp159)
 research, we decided to use the article title as an alternative to the default value. 
 And we counted the number of journals, there are 12,912 journals in total.The number is too large and will seriously affect the classification accuracy. So we give up categorizing articles by journal name.  
 
-#### 3.1.2 Data cleaning
+#### 3.1.2 Train Data cleaning
+Since the data crawled by the spider is not balanced, we need to further process the data.
+We exclude data that is particularly large and small.
+At the same time, it is considered that SDG is a goal that has only been produced in recent years.
+Therefore, without affecting the distribution of categories, we exclude papers that are particularly old. Finally, we appropriately reduced the data on topics with too many papers.
+<br><br>
+Then Tokenise each document at the word level. Remove punctuation. Remove stop words, such as the, and, to etc. Apply lower case to all tokens.  
+Then use lemmatization to try to extract the root of most words.
+```python
+doc_id = 0
+n_tokens_print = 10
 
+print(f'First {n_tokens_print} tokens in first document {doc_id}:')
+print(tokenized[doc_id][:n_tokens_print], '\n')
+
+print(f'First {n_tokens_print} lemmas in first document {doc_id}:')
+print(lemmatized[doc_id][:n_tokens_print])
+```
+
+    First 10 tokens in first document 0:
+    ['chapter', 'examines', 'growth', 'solar', 'photovoltaic', 'power', 'across', 'regions', 'countries', 'early'] 
+    
+    First 10 lemmas in first document 0:
+    ['chapter', 'examines', 'growth', 'solar', 'photovoltaic', 'power', 'across', 'region', 'country', 'early']
 
 ### <span id="jump2">3.2 Unsupervised learning</span>
 
