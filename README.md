@@ -49,8 +49,8 @@ Columns:
 3: Abstract.
 
 ### Extended Resources  
-We use Scrapy got some data from the SDG databases.
-These data are labeled. We can use them for supervised learning. But this is not only our only method, we also think about directly using the provided data for unsupervised learning. Details will be introduced in "methods".
+We use Scrapy got some data from the SDG databases. We also created a journal discovery tool to search for suitable articles. This maintains the balance of the training data very well, which makes our model more robust.
+So these data are labeled. We can use them for supervised learning. But this is not only our only method, we also think about directly using the provided data for unsupervised learning. Details will be introduced in "methods".
 
 ## 3. Methods  
 #### Supervised learning  
@@ -256,6 +256,8 @@ Detiled result [Here](https://github.com/BlinkingStalker/SDG-ACE-2020/blob/maste
 
 Amplayo, R. K. and Lapata, M. (2020) ‘Unsupervised Opinion Summarization with Noising and Denoising’, in. Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 1934–1945. Available at: https://www.aclweb.org/anthology/2020.acl-main.175 (Accessed: 27 July 2020).
 
+Fuso Nerini, F., Tomei, J., To, L.S. et al.(2018) Mapping synergies and trade-offs between energy and the Sustainable Development Goals.Nat Energy 3, 10–15.  
+
 Gao, Y., Zhao, W. and Eger, S. (2020) ‘SUPERT: Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization’, in. Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 1347–1354. Available at: https://www.aclweb.org/anthology/2020.acl-main.124 (Accessed: 27 July 2020).
 
 Haj-Yahia, Z., Sieg, A. and Deleris, L. A. (2019) ‘Towards Unsupervised Text Classification Leveraging Experts and Word Embeddings’, in Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. ACL 2019, Florence, Italy: Association for Computational Linguistics, pp. 371–379. doi: 10.18653/v1/P19-1036.
@@ -263,6 +265,10 @@ Haj-Yahia, Z., Sieg, A. and Deleris, L. A. (2019) ‘Towards Unsupervised Text C
 LaFleur, M. (2019) ‘Art Is Long, Life Is Short: An SDG Classification System for DESA Publications’, SSRN Electronic Journal. doi: 10.2139/ssrn.3400135.
 
 Simon, É., Guigue, V. and Piwowarski, B. (2019) ‘Unsupervised Information Extraction: Regularizing Discriminative Approaches with Relation Distribution Losses’, in Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. ACL 2019, Florence, Italy: Association for Computational Linguistics, pp. 1378–1387. doi: 10.18653/v1/P19-1133.
+
+Sovacool, Benjamin K., (2018), Success and failure in the political economy of solar electrification: Lessons from World Bank Solar Home System (SHS) projects in Sri Lanka and Indonesia, Energy Policy, 123, issue C, p. 482-493.  
+
+Villavicencio Calzadilla, P., & Mauger, R. (2018). The UN's new sustainable development agenda and renewable energy: the challenge to reach SDG7 while achieving energy justice. Journal of Energy & Natural Resources Law, 36(2), 233-254.  
 
 Wiseman, S. and Stratos, K. (2019) ‘Label-Agnostic Sequence Labeling by Copying Nearest Neighbors’, in Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. ACL 2019, Florence, Italy: Association for Computational Linguistics, pp. 5363–5369. doi: 10.18653/v1/P19-1533.
 
