@@ -53,6 +53,76 @@ We use Scrapy got some data from the SDG databases. We also created a journal di
 So these data are labeled. We can use them for supervised learning. But this is not only our only method, we also think about directly using the provided data for unsupervised learning. Details will be introduced in "methods".
 
 ## 3. Methods  
+
+
+### NLP Tools 2
+#### TF-IDF
+Tf-idf by weighting the count of each word in a documentation with the inverse of its frequency across all documents.
+
+We can weaken high-frequency words and strengthen low frequncy words, so that all words produce a quantitaive score.
+
+#### Cosine Similarity
+
+---
+
+### Why journal titles
+
+* Previous approaches looked at classifying the entire corpus based on article content. 
+* Value in allowing researchers to select potentially relevant journals for a field of interest
+* Complements a whole-corpus approach as well as a quick knowledge discovery tool
+
+---
+
+### Possible uses
+* Researcher who wants to identify potentially relevant journals for their field, e.g. to get ToCs as they are published for situational awareness
+* Expand scope of journal content, e.g. going from region-specific publications to global or other regional publications
+* Training expert systems 
+
+---
+
+### Worked example
+Our user is an energy industry analyst/researcher
+
+* Journal titles in dataset = **12,912**
+* SDG7 keywords consolidated from Bergen, Elsevier, Sirius etc. = **511**
+* Matched tokenised journal titles to keywords = **71**
+* Top 5 most frequent words in 71 journals = **8,404**
+
+---
+
+List of 6 journal titles provided by user:
+* 'Energy Policy', 'Energy Research & Social Science', 'Journal Of Cleaner Production', 'Nature Climate Change', 'Renewable Energy', 'Solar Energy'
+
+* All 6 are in the list of 71 'possibly relevant' journals
+* Possibly relevant journals = **65**
+
+---
+
+### Simple term frequency
+Top words used in the 6 expert journals = 5,191
+
+Use **cosine similarity** to match the group of 6 expert journals, to the most frequent terms in abstracts in the remaining 65 journals individually
+
+---
+
+![](https://i.imgur.com/TGo2qxs.png)
+
+So results aren't great!
+
+The mean H score for the top 5 journals here is **64.8** 
+
+(https://www.scimagojr.com/journalrank.php)
+
+---
+
+Use cosine similarity to match as before, based on the **TF-IDF score** for each term
+
+![](https://i.imgur.com/Te3AGp0.png)
+
+This looks better even to a non-expert; mean H score for the top 5 journals is **88.2** 
+
+---
+
 #### Supervised learning  
 One is to use the labeled data of the extended data set for supervised learning.
 We tried  KNeighborsClassifier and SVD techniques.For details, please click: [Here (Supervised learning)](#jump1)
