@@ -258,6 +258,7 @@ Detiled result [Here](https://github.com/BlinkingStalker/SDG-ACE-2020/blob/maste
 ![png](graph/output_200_0.png)  
 
 ## Reference
+https://github.com/nestauk/im_tutorials/blob/master/notebooks/05_gtr_sdgs.ipynb
 
 Amplayo, R. K. and Lapata, M. (2020) ‘Unsupervised Opinion Summarization with Noising and Denoising’, in. Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 1934–1945. Available at: https://www.aclweb.org/anthology/2020.acl-main.175 (Accessed: 27 July 2020).
 
