@@ -174,6 +174,9 @@ Split the data set into 20% test data and 80% training data. The final test resu
                                  weighted avg       0.83      0.62      0.70      1590
                                   samples avg       0.81      0.70      0.72      1590
 ```
+![png](graph/OUtput212.png)
+
+
 The result was lower than our expectations, and even under some themes, it was very bad. We think about using classification training to optimize model performance.
 In this case, our model will be individually trained for each SDG. Therefore, we also adjusted the parameters separately and used Singular Value Decomposition (SVD) to create dense vectors. 
 Result seems better:
@@ -187,6 +190,8 @@ Result seems better:
     avg / total       0.97      0.97      0.84      0.97      0.90      0.82       928
     
 ```
+![png](graph/OUTPUT121.png)
+
 Then we can use this classifier for classification.
 
 ### <span id="jump2">3.2 Unsupervised learning</span>
