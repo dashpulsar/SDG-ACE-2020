@@ -195,22 +195,7 @@ The last step is to calculate the cosine similarity between document d and categ
 ## Result
 Detiled result [ ](https://github.com/BlinkingStalker/SDG-ACE-2020/blob/master/result/classification_result.csv) 
 ```
-    1. No Poverty                                  5786
-    2. Zero Hunger                                39498
-    3. Good Health & Well-being                  329667
-    4. Quality Education                          50082
-    5. Gender Equality                            40262
-    6. Clean Water & Sanitation                   73872
-    7. Affordable & Clean Energy                 133752
-    8. Decent Work & Economic Growth              10252
-    9. Industry, Innovation & Infrastructure      53986
-    10.  Reduced Inequalities                     21647
-    11.  Sustainable Cities & Communities         22691
-    12.  Responsible Consumption & Production    243214
-    13.  Climate Action                           64979
-    14.  Life Below Water                         26343
-    15.  Life on Land                             60986
-    16.  Peace, Justice & Strong Institutions     22356
+
 ```
 
 
