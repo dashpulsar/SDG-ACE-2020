@@ -56,13 +56,14 @@ So these data are labeled. We can use them for supervised learning. But this is 
 
 
 ### NLP Tools 2
+"""
 #### TF-IDF
 Tf-idf by weighting the count of each word in a documentation with the inverse of its frequency across all documents.
 
 We can weaken high-frequency words and strengthen low frequncy words, so that all words produce a quantitaive score.
 
 #### Cosine Similarity
-
+"""
 ---
 
 ### Why journal titles
