@@ -1,7 +1,7 @@
 # SDG-ACE-2020
 A Team project by Zhengyang Jin, Jason Verrall, Hayden Banes and Jaspal Panesar
 
-Code link: [Here](SDGs.ipynb)
+Code link: [Here](code/)
 
 ## 1. Competition Introduction  
 The Sustainable Development Goals (SDGs) are a collection of 17 global goals designed to be a "blueprint to achieve a better and more sustainable future for all".
