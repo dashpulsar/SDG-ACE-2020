@@ -1,5 +1,5 @@
 # SDG-ACE-2020
-A Team project by Zhengyang Jin, Jason Verrall, Hayden Banes and Jaspal Panesar
+A Team project by Hayden B , Jason Verrall, Jaspal Panesar and Zhengyang Jin
 
 Code link: [Here](SDGs.ipynb)
 
